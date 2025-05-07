@@ -12,25 +12,20 @@ Make sure you have the following installed before proceeding:
 
 1. **Clone the repository:**
    ```sh
-   
+   https://github.com/userAVIKR/E-hackathon.git
    ```
 
-2. **Navigate to the project directory:**
-   ```sh
-   cd E-Hackathon/campus-event-management
-   ```
-
-3. **Install dependencies:**
+2. **Install dependencies:**
    ```sh
    npm install
    ```
 
-4. **Run the development server:**
+3. **Run the development server:**
    ```sh
    npm run dev
    ```
 
-5. **Open the project in your browser:**
+4. **Open the project in your browser:**
    - The app will be available at **http://localhost:3000**
 
 ## **Additional Information**
