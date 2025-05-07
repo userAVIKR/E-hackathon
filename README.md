@@ -1,4 +1,4 @@
-# Campus Event Management
+# Event flow
 
 This project is a **Next.js**-based web application for managing campus events. Follow the steps below to set up and run the project locally.
 
@@ -12,7 +12,7 @@ Make sure you have the following installed before proceeding:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Sachin-Sahu149/E-Hackathon.git
+   
    ```
 
 2. **Navigate to the project directory:**
