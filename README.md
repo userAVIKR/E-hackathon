@@ -47,3 +47,16 @@ If you'd like to contribute:
 ## **License**
 This project is open-source and available under the MIT License.
 
+
+## Acknowledgements
+
+This project was made possible with the efforts and collaboration of an amazing team:
+
+- **[Sachin sahu]** 
+- **[Varun singh]**
+- **[Abhishek sharma]** 
+"will add there github soon"
+
+Special thanks to everyone for their hard work, ideas, and commitment throughout the hackathon!
+
+
